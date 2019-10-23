@@ -21,6 +21,14 @@ Very easy:
 * [Open-Lab-02.02](https://github.com/AppsLab2019/Open-Lab-02.02) (5 XP)  
   Function that formats double array.
 
+Easy:
+
 Moderate:
 * [Open-Lab-04.14](https://github.com/AppsLab2019/Open-Lab-04.14) (17 XP)  
   Print words in a frame to console
+
+Hard:
+
+Very hard:
+
+Advanced:
