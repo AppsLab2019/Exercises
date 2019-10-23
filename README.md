@@ -11,5 +11,7 @@ Collection of C# exercises:
   Function that do the addition for specified parameter number.
 * [Open-Lab-01.04](https://github.com/AppsLab2019/Open-Lab-01.04) (3 XP)  
   Function that calculates area of a triangle from base and height.
+* [Open-Lab-01.05](https://github.com/AppsLab2019/Open-Lab-01.05) (3 XP)   
+  Function that reverse bool value.
 * [Open-Lab-04.14](https://github.com/AppsLab2019/Open-Lab-04.14) (17 XP)  
   Print words in a frame to console
