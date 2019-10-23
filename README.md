@@ -5,5 +5,5 @@ Collection of C# exercises:
    Úvodne cvičenie na rozbehanie GitHubu.
 * [Open-Lab-01.01](https://github.com/AppsLab2019/Open-Lab-01.01) (3 XP)  
    Funkcia, ktorá rozparsuje string na číslo a zistí, či je číslo menšie ako 10.
-* [Open-Lab-04.14](https://github.com/AppsLab2019/Open-Lab-04.14) (17 XP)
+* [Open-Lab-04.14](https://github.com/AppsLab2019/Open-Lab-04.14) (17 XP)  
   Print words in a frame to console
