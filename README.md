@@ -18,6 +18,8 @@ Trivial:
 Very easy:
 * [Open-Lab-02.01](https://github.com/AppsLab2019/Open-Lab-02.01) (3 XP)   
   Two functions to work with array of numbers.
+* [Open-Lab-02.02](https://github.com/AppsLab2019/Open-Lab-02.02) (5 XP)  
+  Function that formats double array.
 
 Moderate:
 * [Open-Lab-04.14](https://github.com/AppsLab2019/Open-Lab-04.14) (17 XP)  
