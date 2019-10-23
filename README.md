@@ -13,5 +13,9 @@ Collection of C# exercises:
   Function that calculates area of a triangle from base and height.
 * [Open-Lab-01.05](https://github.com/AppsLab2019/Open-Lab-01.05) (3 XP)   
   Function that reverse bool value.
+
+* [Open-Lab-02.01](https://github.com/AppsLab2019/Open-Lab-02.01) (3 XP)   
+  Two functions to work with array of numbers.
+  
 * [Open-Lab-04.14](https://github.com/AppsLab2019/Open-Lab-04.14) (17 XP)  
   Print words in a frame to console
