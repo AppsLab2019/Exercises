@@ -64,7 +64,9 @@ Moderate:
   Print words in a frame to console
 
 Hard:
-
+* [Gilded Rose](https://github.com/AppsLab2019/GildedRose) (100 XP)  
+  Check your knowledge of conditions, loops, properties,...
+  
 Very hard:
 
 Advanced:
