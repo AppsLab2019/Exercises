@@ -86,5 +86,19 @@ Hard:
   Check your knowledge of conditions, loops, properties,...
   
 Very hard:
+* [Open-Lab-05.01](https://github.com/AppsLab2019/Open-Lab-05.01) (18 XP)  
+  A function that returns the right century.
+* [Open-Lab-05.02](https://github.com/AppsLab2019/Open-Lab-05.02) (18 XP)  
+  A function that removes useless marks from the end of a sentence.
+* [Open-Lab-05.03](https://github.com/AppsLab2019/Open-Lab-05.03) (18 XP)  
+  A function that turns an integer into a string formatted to thousands.
+* [Open-Lab-05.04](https://github.com/AppsLab2019/Open-Lab-05.04) (20 XP)  
+  A function that removes special characters from a string.
+* [Open-Lab-05.05](https://github.com/AppsLab2019/Open-Lab-05.05) (20 XP)  
+  A function that alternates the capitalization of a string.
+* [Open-Lab-05.07](https://github.com/AppsLab2019/Open-Lab-05.07) (18 XP)  
+  A function that removes the smallest integer from an array.
+* [Open-Lab-05.10](https://github.com/AppsLab2019/Open-Lab-05.10) (25 XP)  
+  Reverse coding challenge.
 
 Advanced:
