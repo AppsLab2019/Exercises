@@ -60,8 +60,26 @@ Moderate:
   A function that removes the first and last letter from a string.
 * [Open-Lab-04.04](https://github.com/AppsLab2019/Open-Lab-04.04) (15 XP)  
   A function that formats an integer array into a phone number.
+* [Open-Lab-04.05](https://github.com/AppsLab2019/Open-Lab-04.05) (14 XP)  
+  A function that repeats every letter in a string for n times.
+* [Open-Lab-04.06](https://github.com/AppsLab2019/Open-Lab-04.06) (15 XP)  
+  A function that creates an array of an integer without odd numbers.
+* [Open-Lab-04.07](https://github.com/AppsLab2019/Open-Lab-04.07) (15 XP)  
+  A function that takes a string and reverses it.
+* [Open-Lab-04.08](https://github.com/AppsLab2019/Open-Lab-04.08) (15 XP)  
+  A function that returns an array of 4 letter long strings.
+* [Open-Lab-04.09](https://github.com/AppsLab2019/Open-Lab-04.09) (15 XP)  
+  A function that removes all duplicate strings from an array.
+* [Open-Lab-04.10](https://github.com/AppsLab2019/Open-Lab-04.10) (15 XP)  
+  A function that returns an average value of an integer array.
+* [Open-Lab-04.11](https://github.com/AppsLab2019/Open-Lab-04.11) (16 XP)  
+  A function that sorts letters in a string in alphabetical order.
+* [Open-Lab-04.12](https://github.com/AppsLab2019/Open-Lab-04.12) (15 XP)  
+  A function that returns a missing number.
+* [Open-Lab-04.13](https://github.com/AppsLab2019/Open-Lab-04.13) (17 XP)  
+  A function that finds the longest common substring of two strings.
 * [Open-Lab-04.14](https://github.com/AppsLab2019/Open-Lab-04.14) (17 XP)  
-  Print words in a frame to console
+  Print words in a frame to console.
 
 Hard:
 * [Gilded Rose](https://github.com/AppsLab2019/GildedRose) (100 XP)  
